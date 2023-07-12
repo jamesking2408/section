@@ -1,0 +1,14 @@
+.container {
+    height: 400px;
+    overflow-y: scroll;
+  }
+  
+  .section {
+    height: 400px;
+    padding: 20px;
+  }
+  
+  .section:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
